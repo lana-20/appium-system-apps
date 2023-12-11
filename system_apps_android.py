@@ -5,13 +5,13 @@ APPIUM = "http://localhost:4723"
 CAPS = {
     "platformName": "Android",
     "appium:options": {
-        "platformVersion": "12.0",
+        "platformVersion": "13.0",
         "deviceName": "Android Emulator",
         "automationName": "UiAutomator2",
-        "app": "/path/to/test_app.apk"
+        "appPackage": "com.android.settings",
+        "appActivity": ".Settings"
     }
 }
-
 driver = webdriver.Remote(APPIUM, CAPS)
 try:
     time.sleep(5)   # for demo only -  to observe the app launch

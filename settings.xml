@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Settings" label="Settings" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+              <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Settings" enabled="true" visible="true" accessible="false" x="0" y="53" width="393" height="97" index="0">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Settings" name="Settings" label="Settings" enabled="true" visible="true" accessible="true" x="16" y="101" width="133" height="41" index="0"/>
+              </XCUIElementTypeNavigationBar>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="1">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" accessible="false" x="0" y="0" width="393" height="852" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="149" width="393" height="19" index="0"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="APPLE_ACCOUNT" enabled="true" visible="true" accessible="false" x="16" y="167" width="361" height="71" index="1">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="16" y="237" width="361" height="1" index="0"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="account" label="account" enabled="true" visible="true" accessible="false" x="30" y="167" width="72" height="71" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Sign in to your iPhone" name="Sign in to your iPhone" label="Sign in to your iPhone" enabled="true" visible="true" accessible="true" x="112" y="184" width="166" height="21" index="2"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Set up iCloud, the App Store, and more." name="Set up iCloud, the App Store, and more." label="Set up iCloud, the App Store, and more." enabled="true" visible="true" accessible="true" x="112" y="204" width="241" height="17" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="237" width="393" height="19" index="2"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="255" width="393" height="18" index="3"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Screen Time" label="Screen Time" enabled="true" visible="true" accessible="false" x="16" y="272" width="361" height="45" index="4">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="280" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Screen Time" name="SCREEN_TIME" label="Screen Time" enabled="true" visible="true" accessible="true" x="80" y="284" width="96" height="22" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="316" width="297" height="1" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="287" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Action Button" label="Action Button" enabled="true" visible="true" accessible="false" x="16" y="316" width="361" height="45" index="5">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="16" y="360" width="361" height="1" index="0"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="actionbutton" enabled="true" visible="true" accessible="false" x="36" y="324" width="29" height="30" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Action Button" name="ACTION_BUTTON" label="Action Button" enabled="true" visible="true" accessible="true" x="80" y="328" width="104" height="22" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="331" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="360" width="393" height="19" index="6"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="378" width="393" height="18" index="7"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="General" label="General" enabled="true" visible="true" accessible="false" x="16" y="395" width="361" height="45" index="8">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="403" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="General" name="General" label="General" enabled="true" visible="true" accessible="true" x="80" y="407" width="60" height="22" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="439" width="297" height="1" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="410" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Accessibility" label="Accessibility" enabled="true" visible="true" accessible="false" x="16" y="439" width="361" height="45" index="9">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="447" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Accessibility" name="ACCESSIBILITY" label="Accessibility" enabled="true" visible="true" accessible="true" x="80" y="451" width="95" height="22" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="483" width="297" height="1" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="454" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Privacy" enabled="true" visible="true" accessible="false" x="16" y="483" width="361" height="46" index="10">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="16" y="527" width="361" height="2" index="0"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="491" width="29" height="30" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Privacy &amp; Security" name="Privacy &amp; Security" label="Privacy &amp; Security" enabled="true" visible="true" accessible="true" x="80" y="495" width="140" height="22" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="498" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="528" width="393" height="18" index="11"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="545" width="393" height="19" index="12"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Passwords" label="Passwords" enabled="true" visible="true" accessible="false" x="16" y="563" width="361" height="45" index="13">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="16" y="606" width="361" height="2" index="0"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="570" width="29" height="30" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Passwords" name="PASSWORDS" label="Passwords" enabled="true" visible="true" accessible="true" x="80" y="575" width="82" height="21" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="578" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="607" width="393" height="18" index="14"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="624" width="393" height="19" index="15"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Safari" label="Safari" enabled="true" visible="true" accessible="false" x="16" y="642" width="361" height="45" index="16">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="649" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Safari" name="Safari" label="Safari" enabled="true" visible="true" accessible="true" x="80" y="654" width="44" height="21" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="685" width="297" height="2" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="657" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="News" label="News" enabled="true" visible="true" accessible="false" x="16" y="686" width="361" height="45" index="17">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="693" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="News" name="NEWS" label="News" enabled="true" visible="true" accessible="true" x="80" y="698" width="43" height="21" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="729" width="297" height="2" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="701" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Translate" label="Translate" enabled="true" visible="true" accessible="false" x="16" y="730" width="361" height="45" index="18">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="737" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Translate" name="TRANSLATE" label="Translate" enabled="true" visible="true" accessible="true" x="80" y="742" width="70" height="21" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="773" width="297" height="2" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="745" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Maps" label="Maps" enabled="true" visible="true" accessible="false" x="16" y="774" width="361" height="45" index="19">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="781" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Maps" name="MAPS" label="Maps" enabled="true" visible="true" accessible="true" x="80" y="786" width="42" height="21" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="80" y="817" width="297" height="2" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="789" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Shortcuts" label="Shortcuts" enabled="true" visible="true" accessible="false" x="16" y="818" width="361" height="45" index="20">
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" accessible="false" x="36" y="825" width="29" height="30" index="0"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Shortcuts" name="SHORTCUTS" label="Shortcuts" enabled="true" visible="true" accessible="true" x="80" y="830" width="75" height="21" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="80" y="861" width="297" height="2" index="2"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="true" accessible="false" x="346" y="833" width="11" height="15" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Health" label="Health" enabled="true" visible="false" accessible="false" x="16" y="862" width="361" height="45" index="21">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="false" accessible="false" x="0" y="149" width="11" height="15" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="149" width="297" height="1" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Health" name="HEALTH" label="Health" enabled="true" visible="false" accessible="true" x="0" y="149" width="50" height="21" index="2"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="149" width="29" height="30" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Siri &amp; Search" label="Siri &amp; Search" enabled="true" visible="false" accessible="false" x="16" y="906" width="361" height="45" index="22">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="false" accessible="false" x="0" y="149" width="11" height="15" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="149" width="297" height="1" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Siri &amp; Search" name="SIRI" label="Siri &amp; Search" enabled="true" visible="false" accessible="true" x="0" y="149" width="98" height="21" index="2"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="149" width="29" height="30" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Photos" label="Photos" enabled="true" visible="false" accessible="false" x="16" y="950" width="361" height="45" index="23">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="false" accessible="false" x="0" y="149" width="11" height="15" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="149" width="297" height="1" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Photos" name="Photos" label="Photos" enabled="true" visible="false" accessible="true" x="0" y="149" width="54" height="21" index="2"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="149" width="29" height="30" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Game Center" label="Game Center" enabled="true" visible="false" accessible="false" x="16" y="994" width="361" height="45" index="24">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="false" accessible="false" x="0" y="149" width="11" height="15" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="149" width="361" height="1" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Game Center" name="GAMECENTER" label="Game Center" enabled="true" visible="false" accessible="true" x="0" y="149" width="101" height="21" index="2"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="149" width="29" height="30" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="800" width="393" height="18" index="25"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1055" width="393" height="19" index="26"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1073" width="393" height="18" index="27"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1090" width="393" height="19" index="28"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="Developer" label="Developer" enabled="true" visible="false" accessible="false" x="16" y="1108" width="361" height="45" index="29">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" enabled="false" visible="false" accessible="false" x="0" y="149" width="11" height="15" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="149" width="361" height="1" index="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Developer" name="DEVELOPER_SETTINGS" label="Developer" enabled="true" visible="false" accessible="true" x="0" y="149" width="78" height="21" index="2"/>
+                        <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" accessible="false" x="0" y="149" width="29" height="30" index="3"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1108" width="393" height="18" index="30"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1169" width="393" height="19" index="31"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="1187" width="393" height="18" index="32"/>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" accessible="false" x="0" y="0" width="393" height="852" index="1">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="393" height="852" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="393" height="852" index="0"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</AppiumAUT>
